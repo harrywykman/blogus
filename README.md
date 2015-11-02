@@ -1,2 +1,2 @@
-# blogus
+# Artifex Green
 a blog
