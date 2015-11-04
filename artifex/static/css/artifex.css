@@ -70,13 +70,13 @@ h1.home {
     margin-bottom: 1em;
 }
 
-@media screen and (max-width: 768px) {                                                    
+@media only screen and (max-width: 768px) {                                                    
     h1.home {                                                                             
         font-size:5em;                                                                   
     }                                                                                     
 }
 
-@media screen and (max-width: 320px) {                                                    
+@media only screen and (max-width: 320px) {                                                    
     h1.home {                                                                             
         font-size:1em;                                                                    
     }                                                                                     
