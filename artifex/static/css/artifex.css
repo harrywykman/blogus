@@ -70,6 +70,11 @@ h1.home {
     margin-bottom: 1em;
 }
 
+@media screen and (max-width: 768px) {                                                    
+    h1.home {                                                                             
+        font-size:5em;                                                                   
+    }                                                                                     
+} 
 
 body {
     font-family: 'Open Sans';
